@@ -12,5 +12,19 @@
 				"Engine"
 			]
 		}
+	],
+	"Plugins": [
+		{
+			"Name": "Water",
+			"Enabled": true
+		},
+		{
+			"Name": "ShallowWater",
+			"Enabled": true
+		},
+		{
+			"Name": "ColorCorrectRegions",
+			"Enabled": true
+		}
 	]
 }
